@@ -1,0 +1,6 @@
+[package]
+name = "ctci_6th_edition_rust"
+version = "0.1.0"
+authors = ["Peter Henry <me@peterhenry.net>"]
+
+[dependencies]
